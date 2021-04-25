@@ -1,0 +1,13 @@
+C:\Users\bebev\OneDrive\Área de Trabalho\SalesMachineFactory\SalesMachineFactory\bin\Debug\netcoreapp3.1\SalesMachineFactory.exe
+C:\Users\bebev\OneDrive\Área de Trabalho\SalesMachineFactory\SalesMachineFactory\bin\Debug\netcoreapp3.1\SalesMachineFactory.deps.json
+C:\Users\bebev\OneDrive\Área de Trabalho\SalesMachineFactory\SalesMachineFactory\bin\Debug\netcoreapp3.1\SalesMachineFactory.runtimeconfig.json
+C:\Users\bebev\OneDrive\Área de Trabalho\SalesMachineFactory\SalesMachineFactory\bin\Debug\netcoreapp3.1\SalesMachineFactory.runtimeconfig.dev.json
+C:\Users\bebev\OneDrive\Área de Trabalho\SalesMachineFactory\SalesMachineFactory\bin\Debug\netcoreapp3.1\SalesMachineFactory.dll
+C:\Users\bebev\OneDrive\Área de Trabalho\SalesMachineFactory\SalesMachineFactory\bin\Debug\netcoreapp3.1\SalesMachineFactory.pdb
+C:\Users\bebev\OneDrive\Área de Trabalho\SalesMachineFactory\SalesMachineFactory\obj\Debug\netcoreapp3.1\SalesMachineFactory.csprojAssemblyReference.cache
+C:\Users\bebev\OneDrive\Área de Trabalho\SalesMachineFactory\SalesMachineFactory\obj\Debug\netcoreapp3.1\SalesMachineFactory.AssemblyInfoInputs.cache
+C:\Users\bebev\OneDrive\Área de Trabalho\SalesMachineFactory\SalesMachineFactory\obj\Debug\netcoreapp3.1\SalesMachineFactory.AssemblyInfo.cs
+C:\Users\bebev\OneDrive\Área de Trabalho\SalesMachineFactory\SalesMachineFactory\obj\Debug\netcoreapp3.1\SalesMachineFactory.csproj.CoreCompileInputs.cache
+C:\Users\bebev\OneDrive\Área de Trabalho\SalesMachineFactory\SalesMachineFactory\obj\Debug\netcoreapp3.1\SalesMachineFactory.dll
+C:\Users\bebev\OneDrive\Área de Trabalho\SalesMachineFactory\SalesMachineFactory\obj\Debug\netcoreapp3.1\SalesMachineFactory.pdb
+C:\Users\bebev\OneDrive\Área de Trabalho\SalesMachineFactory\SalesMachineFactory\obj\Debug\netcoreapp3.1\SalesMachineFactory.genruntimeconfig.cache
